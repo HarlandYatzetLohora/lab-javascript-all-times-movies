@@ -36,7 +36,7 @@ var movies = [
     year: '1957',
     director: 'Sidney Lumet',
     duration: '1h 36min',
-    genre: ['Crime', 'Drama'],
+    genre: [ 'Crime','Drama'],
     rate: '8.9'
   },
   {
